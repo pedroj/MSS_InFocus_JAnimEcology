@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/pedro/Documents/Working/MSS_InFocus_JAnimEcology/.texpadtmp/ms_infocus.aux
+The style file: jae.bst
+I found no \bibdata command---while reading file /Users/pedro/Documents/Working/MSS_InFocus_JAnimEcology/.texpadtmp/ms_infocus.aux
+Warning--I didn't find a database entry for "Sazatornil:2016"
+Warning--I didn't find a database entry for "Cocucci:2009"
+Warning--I didn't find a database entry for "Arditti:2012"
+Warning--I didn't find a database entry for "Wallace:1867"
+Warning--I didn't find a database entry for "Nilsson:1988"
+Warning--I didn't find a database entry for "Anderson:2010"
+Warning--I didn't find a database entry for "Wasserthal:2014"
+Warning--I didn't find a database entry for "More:2012"
+Warning--I didn't find a database entry for "Pauw:2009"
+Warning--I didn't find a database entry for "BasJor:2014"
+Warning--I didn't find a database entry for "VizentinBugoni:2014"
+Warning--I didn't find a database entry for "Miller:1997"
+Warning--I didn't find a database entry for "Alarcon:2008"
+Warning--I didn't find a database entry for "Borrell:2005"
+You've used 0 entries,
+            2730 wiz_defined-function locations,
+            605 strings with 5092 characters,
+and the built_in function-call counts, 29 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 8
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 7
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 6
+(There was 1 error message)
